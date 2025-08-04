@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300">
+  <rect width="400" height="300" fill="#f5f5f5"/>
+  <path d="M100,150 L140,150 C160,150 180,130 180,110 C180,90 160,70 140,70 L100,70 C80,70 60,90 60,110 C60,130 80,150 100,150 Z" fill="#333"/>
+  <path d="M300,150 L260,150 C240,150 220,130 220,110 C220,90 240,70 260,70 L300,70 C320,70 340,90 340,110 C340,130 320,150 300,150 Z" fill="#333"/>
+  <path d="M140,70 L260,70" fill="none" stroke="#222" stroke-width="5"/>
+  <path d="M100,110 L140,110" fill="none" stroke="#444" stroke-width="3"/>
+  <path d="M260,110 L300,110" fill="none" stroke="#444" stroke-width="3"/>
+  <text x="200" y="200" font-family="Arial" font-size="16" fill="#333" text-anchor="middle">Ray-Ban Aviator Sunglasses</text>
+</svg>
